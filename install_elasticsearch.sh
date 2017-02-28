@@ -75,3 +75,5 @@ download
 prepare
 user
 package
+
+#still need to chown -R /usr/share/elasticsearch and /run/elasticsearch need to find a better way
